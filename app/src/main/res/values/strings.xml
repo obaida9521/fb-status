@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Love SMS</string>
+    <string name="app_neckName">Love SMS Romantic Fb Caption</string>
+
+
+    <bool name="ADS_ON">true</bool>
+    <string name="INTERSTITIAL_ID">ca-app-pub-3940256099942544/1033173712</string>
+    <integer name="AD_INTERVAL">2</integer>
+    <string name="BANNER_ID">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="App_ID">ca-app-pub-3940256099942544~3347511713</string>
+
+    <string name="save">Save</string>
+    <string name="like">Edit</string>
+    <string name="copy">Copy</string>
+    <string name="share">Share</string>
+
+    // privacy policy lnk here
+    <string name="PrivacyPolicy">https://sites.google.com/view/fb-caption-bangla-sms/home</string>
+
+    <string name="Share_app_massege">Hey check out my app at</string>
+    <string name="let_s_start">চলুন শুরু করি</string>
+    <string name="favorite">প্রিয় তালিকা</string>
+    <string name="rate_us">রেটিং দিন😍</string>
+
+
+    <color name="color_1">#EFEBE9</color>
+    <color name="color_2">#BCD2EE</color>
+    <color name="color_3">#C1F0F6</color>
+    <color name="color_4">#ECC3BF</color>
+    <color name="color_5">#F8BBD0</color>
+    <color name="color_6">#F1F8E9</color>
+</resources>

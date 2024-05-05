@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#1E6E64</color>//catagory color
+    <color name="primary_dark">#000000</color>
+    <color name="secondary">#EA0000</color>
+    <color name="secondary_dark">#BC0000</color>
+    <color name="black">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_color">#FFFFFF</color>
+
+
+
+    <color name="status_menu_background">#955D04</color>
+    <color name="edite_icon">#FFFFFF</color>
+    <color name="Shorttoolbar_bigtoolbar">#063051</color>
+    <color name="allbackgroundColor">#043C43</color>
+    <color name="Title_text_color">#ffffff</color>
+
+</resources>

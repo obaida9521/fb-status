@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#FFFFFF</color>
+    <color name="primary_dark">#C1C1C1</color>
+    <color name="secondary">#EA0000</color>
+    <color name="secondary_dark">#BC0000</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_color">#000000</color>
+
+    <color name="status_menu_background">#FFFFFF</color>
+    <color name="edite_icon">#020202</color>
+    <color name="Shorttoolbar_bigtoolbar">#0A9711</color>
+    <color name="allbackgroundColor">#ffffff</color>
+    <color name="Title_text_color">#8E0303</color>
+</resources>

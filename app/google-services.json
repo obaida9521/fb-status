@@ -1,0 +1,156 @@
+{
+  "project_info": {
+    "project_number": "877792224688",
+    "firebase_url": "https://fir-status-39ce0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-status-39ce0",
+    "storage_bucket": "fir-status-39ce0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877792224688:android:a94ae5ba5d850e4c8de275",
+        "android_client_info": {
+          "package_name": "com.agrtech.fbstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ21vJD_P2mFKsIL2sqp0YFveOSB2skR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877792224688:android:d0db81f1d75255028de275",
+        "android_client_info": {
+          "package_name": "com.agrtech.fbstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ21vJD_P2mFKsIL2sqp0YFveOSB2skR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877792224688:android:1c8602b9b3e1ff1f8de275",
+        "android_client_info": {
+          "package_name": "com.agrtech.fbstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ21vJD_P2mFKsIL2sqp0YFveOSB2skR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877792224688:android:5c8528cfa84a8dde8de275",
+        "android_client_info": {
+          "package_name": "com.agrtech.fbstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ21vJD_P2mFKsIL2sqp0YFveOSB2skR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877792224688:android:2eadbc466e62b2618de275",
+        "android_client_info": {
+          "package_name": "com.agrtech.fbstatus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ21vJD_P2mFKsIL2sqp0YFveOSB2skR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877792224688-imth6793ju3l3m9pvorgeo1ajv85t14u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
